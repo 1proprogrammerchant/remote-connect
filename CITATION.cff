@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: ACremotecontrol
+message: check this out ;)
+type: software
+authors:
+  - given-names: 'Zach '
+  - given-names: Mr.Henry
+identifiers:
+  - type: url
+    value: 'https://github.com/devco22/remotecontrol'
+    description: other part of OSINT
+repository-code: 'https://github.com/1proprogrammerchant/remote-connect'
+url: 'https://github.com/'
+repository: 'https://github.com/devco22/remotecontrol'
+abstract: cool repository
+keywords:
+  - jit
+  - git
+  - set
+  - connect
+license: Apache-2.0
+date-released: '2023-06-22'
